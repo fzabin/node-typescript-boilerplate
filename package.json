@@ -1,0 +1,10 @@
+{
+  "name": "node-typescript-boilerplate",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "node ./src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
